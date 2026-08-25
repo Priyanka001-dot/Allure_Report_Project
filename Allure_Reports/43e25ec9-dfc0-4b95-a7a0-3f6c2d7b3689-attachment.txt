@@ -1,0 +1,5 @@
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:39 Testcase test_verify_application_url_001 is started
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:41 Opening Browser and getting https://automation.credence.in
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:42 Checking Page title
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:44 test_verify_application_url_001 is pass
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:52 test_verify_application_url_001 is complete

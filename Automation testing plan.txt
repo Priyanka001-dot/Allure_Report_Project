@@ -1,0 +1,30 @@
+------Automation Testing Plan
+
+--Scope
+1. Registration
+2. Login
+3. add product Cart, Product quantity
+4. Wishlist
+5. Amount verification
+6. Check Out
+7. Login_DDT_EXCEL
+8. Login_DDT_Params
+9. Registration_DDT_EXCEL
+10. Registration_DDT_Params
+11. Verify Application URL
+
+jenkin
+git
+
+
+--Duration & --efforts
+Hrs = 16 to 24  hrs -- > 2 or 3 days --> 5 story points
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,47 @@
+ 2026-06-16 08:32:56,641 : INFO : test_verify_application_url_001 : 24 :  This is info
+ 2026-06-16 08:32:56,642 : WARNING : test_verify_application_url_001 : 25 :  This is warning
+ 2026-06-16 08:32:56,642 : ERROR : test_verify_application_url_001 : 26 :  This is error
+ 2026-06-16 08:32:56,642 : CRITICAL : test_verify_application_url_001 : 27 :  This is critical
+
+ 2026-06-16 08:35:34,365 : DEBUG : test_verify_application_url_001 : 23 :  This is debug
+ 2026-06-16 08:35:34,365 : INFO : test_verify_application_url_001 : 24 :  This is info
+ 2026-06-16 08:35:34,365 : WARNING : test_verify_application_url_001 : 25 :  This is warning
+ 2026-06-16 08:35:34,365 : ERROR : test_verify_application_url_001 : 26 :  This is error
+ 2026-06-16 08:35:34,366 : CRITICAL : test_verify_application_url_001 : 27 :  This is critical
+
+ 2026-06-16 08:37:05,926 : ERROR : test_verify_application_url_001 : 26 :  This is error
+ 2026-06-16 08:37:05,927 : CRITICAL : test_verify_application_url_001 : 27 :  This is critical
+
+ 2026-06-16 08:41:07,494 : INFO : test_verify_application_url_001 : 30 : Testcase test_verify_application_url_001 is started
+ 2026-06-16 08:41:08,413 : INFO : test_verify_application_url_001 : 32 : Opening Browser and getting https://automation.credence.in
+ 2026-06-16 08:41:08,414 : INFO : test_verify_application_url_001 : 33 : Checking Page title
+ 2026-06-16 08:41:08,421 : INFO : test_verify_application_url_001 : 35 : test_verify_application_url_001 is pass
+ 2026-06-16 08:41:08,422 : INFO : test_verify_application_url_001 : 39 : test_verify_application_url_001 is complete
+ 2026-06-18 07:42:25,845 : WARNING : _process_logs : 163 : The geckodriver version (0.36.0) detected in PATH at C:\Users\Credence\AppData\Local\Programs\Python\Python312\Scripts\geckodriver.exe might not be compatible with the detected firefox version (151.0.4); currently, geckodriver 0.37.0 is recommended for firefox 151.*, so it is advised to delete the driver in PATH and retry
+ 2026-06-18 07:42:25,846 : WARNING : _process_logs : 163 : The geckodriver version (0.36.0) detected in PATH at C:\Users\Credence\AppData\Local\Programs\Python\Python312\Scripts\geckodriver.exe might not be compatible with the detected firefox version (151.0.4); currently, geckodriver 0.37.0 is recommended for firefox 151.*, so it is advised to delete the driver in PATH and retry
+ 2026-06-18 07:42:53,975 : INFO : test_verify_application_url_001 : 39 : Testcase test_verify_application_url_001 is started
+ 2026-06-18 07:42:57,566 : INFO : test_verify_application_url_001 : 41 : Opening Browser and getting https://automation.credence.in
+ 2026-06-18 07:42:57,566 : INFO : test_verify_application_url_001 : 42 : Checking Page title
+ 2026-06-18 07:42:57,765 : INFO : test_verify_application_url_001 : 44 : test_verify_application_url_001 is pass
+ 2026-06-18 07:42:57,765 : INFO : test_verify_application_url_001 : 49 : test_verify_application_url_001 is complete
+ 2026-06-18 07:43:13,741 : WARNING : _process_logs : 163 : The geckodriver version (0.36.0) detected in PATH at C:\Users\Credence\AppData\Local\Programs\Python\Python312\Scripts\geckodriver.exe might not be compatible with the detected firefox version (151.0.4); currently, geckodriver 0.37.0 is recommended for firefox 151.*, so it is advised to delete the driver in PATH and retry
+ 2026-06-18 07:44:09,807 : WARNING : _process_logs : 163 : The geckodriver version (0.36.0) detected in PATH at C:\Users\Credence\AppData\Local\Programs\Python\Python312\Scripts\geckodriver.exe might not be compatible with the detected firefox version (151.0.4); currently, geckodriver 0.37.0 is recommended for firefox 151.*, so it is advised to delete the driver in PATH and retry
+ 2026-06-18 07:44:09,807 : WARNING : _process_logs : 163 : The geckodriver version (0.36.0) detected in PATH at C:\Users\Credence\AppData\Local\Programs\Python\Python312\Scripts\geckodriver.exe might not be compatible with the detected firefox version (151.0.4); currently, geckodriver 0.37.0 is recommended for firefox 151.*, so it is advised to delete the driver in PATH and retry
+ 2026-06-18 07:44:09,813 : WARNING : _process_logs : 163 : The geckodriver version (0.36.0) detected in PATH at C:\Users\Credence\AppData\Local\Programs\Python\Python312\Scripts\geckodriver.exe might not be compatible with the detected firefox version (151.0.4); currently, geckodriver 0.37.0 is recommended for firefox 151.*, so it is advised to delete the driver in PATH and retry
+ 2026-06-18 07:44:18,248 : INFO : test_verify_application_url_001 : 39 : Testcase test_verify_application_url_001 is started
+ 2026-06-18 07:44:20,305 : INFO : test_verify_application_url_001 : 41 : Opening Browser and getting https://automation.credence.in
+ 2026-06-18 07:44:20,305 : INFO : test_verify_application_url_001 : 42 : Checking Page title
+ 2026-06-18 07:44:20,366 : INFO : test_verify_application_url_001 : 44 : test_verify_application_url_001 is pass
+ 2026-06-18 07:44:20,366 : INFO : test_verify_application_url_001 : 49 : test_verify_application_url_001 is complete
+ 2026-06-18 07:44:42,966 : WARNING : _process_logs : 163 : The geckodriver version (0.36.0) detected in PATH at C:\Users\Credence\AppData\Local\Programs\Python\Python312\Scripts\geckodriver.exe might not be compatible with the detected firefox version (151.0.4); currently, geckodriver 0.37.0 is recommended for firefox 151.*, so it is advised to delete the driver in PATH and retry
+ 2026-06-18 08:01:14,943 : WARNING : _process_logs : 163 : The geckodriver version (0.36.0) detected in PATH at C:\Users\Credence\AppData\Local\Programs\Python\Python312\Scripts\geckodriver.exe might not be compatible with the detected firefox version (151.0.4); currently, geckodriver 0.37.0 is recommended for firefox 151.*, so it is advised to delete the driver in PATH and retry
+ 2026-06-18 08:01:22,078 : INFO : test_verify_application_url_001 : 39 : Testcase test_verify_application_url_001 is started
+ 2026-06-18 08:01:22,946 : INFO : test_verify_application_url_001 : 41 : Opening Browser and getting https://automation.credence.in
+ 2026-06-18 08:01:22,946 : INFO : test_verify_application_url_001 : 42 : Checking Page title
+ 2026-06-18 08:01:22,951 : INFO : test_verify_application_url_001 : 44 : test_verify_application_url_001 is pass
+ 2026-06-18 08:01:23,189 : INFO : test_verify_application_url_001 : 52 : test_verify_application_url_001 is complete
+ 2026-08-25 14:21:49,497 : INFO : test_verify_application_url_001 : 39 : Testcase test_verify_application_url_001 is started
+ 2026-08-25 14:21:54,377 : INFO : test_verify_application_url_001 : 41 : Opening Browser and getting https://automation.credence.in
+ 2026-08-25 14:21:54,481 : INFO : test_verify_application_url_001 : 42 : Checking Page title
+ 2026-08-25 14:21:54,488 : INFO : test_verify_application_url_001 : 44 : test_verify_application_url_001 is pass
+ 2026-08-25 14:21:55,119 : INFO : test_verify_application_url_001 : 52 : test_verify_application_url_001 is complete
